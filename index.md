@@ -60,6 +60,8 @@
 
 [SS-SSR-V2ray 分享账号](1-share-ssr-v2ray.md)
 
+[TEST](README.md)
+
 ---
 
 ### 4. 🌰浏览器插件
