@@ -23,6 +23,8 @@
 
 > 打开即可使用，优点可以访问所有的站点
 
+[Cloudflare节点](https://cdn.nkxingxh.top)
+
 [jsproxy](https://gamedun.github.io/)：【推荐】
 
 [jsproxy1](https://proxy.fan.workers.dev/)
