@@ -23,38 +23,7 @@
 
 > 打开即可使用，优点可以访问所有的站点
 
-[Cloudflare节点](https://cdn.nkxingxh.top)
-
-[jsproxy](https://gamedun.github.io/)：【推荐】
-
-[jsproxy1](https://proxy.fan.workers.dev/)
-
-[jsproxy2](https://js.jimmytinsley.workers.dev/)
-
-[jsproxy3](https://pikaqiu.pikaqiu1.workers.dev/)
-
-[jsproxy4](https://noisy-0110.0905.workers.dev/)
-
-
----
-
-### 2. 🍆镜像网站
-
-> 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
-
-[谷歌镜像](https://google.yuncs.design/)：【推荐】
-
-[谷歌镜像1](http://s.isway.cn/)：【推荐】
-
-[http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)
-
-[http://ac.scmor.com/](http://ac.scmor.com/)
-
-其它镜像：
-
-[ins](https://www.veryins.com/)：建议手机观看
-
-[PH](https://pornhub.yuncs.design/)：未满18请勿点击
+[Xyun CDN节点](https://cdn.nkxingxh.top)
 
 ---
 
