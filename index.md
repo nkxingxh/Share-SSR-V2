@@ -1,8 +1,6 @@
 本文档只保证可科学上网，并不保证稳定、速度。
 
-通过本文档您可以解决科学上网问题，但是这并不意味着是长期使用的方法，当你成功上网后，请另寻更加稳定的方法
-
-临时存储网盘：[蓝奏云](https://www.lanzous.com/b1008660)  密码: *6j5h*
+上网后请一定记住自己是个中国人！
 
 ---
 
@@ -34,8 +32,6 @@
 [jsproxy3](https://pikaqiu.pikaqiu1.workers.dev/)
 
 [jsproxy4](https://noisy-0110.0905.workers.dev/)
-
-~~[jsproxy](https://jsproxy.cf/)~~
 
 
 ---
@@ -107,9 +103,3 @@ TODO
 [Proxifier 设置教程](Other/8-proxifier-settings.md)
 
 [设置自定义 DNS 服务器](Other/9-dns-setup-guide-cn.md)
-
----
-
-如果有什么需求或问题、建议，欢迎提出，也可以发送邮件：[aselierlin@gmail.com](Mailto://aselierlin@gmail.com)
-
-若本项目对您有所帮助，[欢迎Star](https://github.com/selierlin/Share-SSR-V2ray)
