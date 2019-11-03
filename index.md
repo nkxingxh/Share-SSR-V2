@@ -19,21 +19,21 @@
 
 ## 💻上网方式
 
-### 1. 🥒直连网站
+### 1. 前端代理
 
-> 打开即可使用，优点可以访问所有的站点
+> 使用JSProxy等进行前端代理，可直接访问
 
 [Xyun CDN节点](https://cdn.nkxingxh.top)
 
 ---
 
-### 3. 🍄SS/SSR/V2ray分享账号
+### 2. 🍄SS/SSR/V2ray分享账号
 
 [SS-SSR-V2ray 分享账号](1-share-ssr-v2ray.md)
 
 ---
 
-### 4. 🌰浏览器插件
+### 3. 🌰浏览器插件
 
 > 建议使用Chrome浏览器安装插件
 
