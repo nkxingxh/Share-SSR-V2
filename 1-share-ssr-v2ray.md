@@ -13,64 +13,31 @@
 
 如果你有好的网站希望可以和大家一起分享哦
 
-### 收录站点条件
+最后更新：2019年11月9日13:48:03
 
-不收费、服务器稳定、有效期长
+### SS（R） 分享
 
-使用方法参考：[使用教程](index.md#使用教程)
-
-
-### 注册站点
-
-| 名称                                                         | 更新频率 | 注册登录 | 需要GO | 备注         |
-| ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [WigJI加速器](https://wigji.com/)				|	| ✅	| ❌ 	| 1108更新	|
-| [飞鱼](https://yuyu.cool/register?aff=3026)         | 无       | ✅        | ❌        | 速度稳定         |
-| [好好学习](https://edu.upday.xyz/register?aff=73688)         | 无       | ✅        | ❌        | 需要邀请注册，建议通过v2ray使用         |
-| [西部世界](https://westssr.club/i/iv191031/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天，可做备用方案         |
-| [极速](https://www.jisu365.vip/auth/register?code=VYTS)         | 无       | ✅        | ❌        | 新机场白嫖，免费使用         |
-| [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ✅        | 使用**多开分身**可刷邀请         |
-| [球速度](http://qiujasu.com/auth/register?code=6VGm)         | 无       | ✅        | ❌        | 新机场，速度快         |
-| [凿壁偷光](https://new.ssrcf.top/auth/register?code=Jkai)     | 无       | ✅        | ✅        | 老牌机场，上百个节点，用户多         |
-
-好好学习邀请码：https://shimo.im/docs/PjpKGRKvxPphgxwh/
-
----
-
-### SS 分享
-
-| 名称                                                         | 更新频率 | 注册登录 | 需要GO | 备注         |
-| ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [the0demiurge爬虫账号](http://ss.pythonic.life/)         | 天       | ❌        | ✅        | 推荐         |
-| [FreeSS](https://my.freess.info/)         | 天       | ❌        | ❌        | 推荐         |
-| [free-ss](https://free-ss.site/)                           | 时       | ❌        | ✅        | ss@rohankdd.com |
-| [放牧的风](https://www.youneed.win/free-ss)         | 天       | ❌        | ✅        | 推荐         |
-| [iShadow](https://get.ishadowx.biz/)                           | 6小时    | ❌        | ❌        | 位于页面中间 |
-
----
-
-### SSR 分享
-
-| 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
-| ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [放牧的风](https://www.youneed.win/free-ssr)         | 天       | ❌        | ✅        | 推荐         |
-| [免费节点 Incn](https://lncn.org/)                           | 周       | ❌        | ✅        |            |
-| [Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts) | 周       | ❌        | ❌        |              |
-| [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) | 天       | ❌        | ❌        |              |
-| [ssrshare.com分享网站](https://www.ssrtool.com/tool/free_ssr) | 天       | ❌        | ✅        |              |
-| [SSR爬取账号](http://ss.pythonic.life/)                      | 天       | ❌        | ❌        | 可以自己搭建 |
-| [翻墙党论坛](https://fanqiangdang.com/)                      | 天       | ✅        | ✅        |              |
-| [逗比根据地分享](https://doubibackup.com/95f80__8.html)   | 3天      | ❌        | ✅        |                                      |
-| [GRIGOR'S](https://gdmi.weebly.com/3118523398online.html) | 未知     | ❌        | ❌        | 包含教程                             |
+| 名称                                                         | 需要F♂ | 备注         |
+| ------------------------------------------------------------ | -------- | ------------ |
+| [GetSSR免费节点](https://onessr.ml/)			    | ×		| 推荐	    |
+| [Incn 免费节点](https://lncn.org/)                            | ✅        | 推荐            |
+| [FreeSS](https://my.freess.info/)       		       | ❌        |  推荐           |
+| [iShadow](https://get.ishadowx.biz/)                         | ❌        |  推荐          |
+| [SS（R）爬虫账号](http://ss.pythonic.life/)            	  | ✅        |            |
+| [free-ss](https://free-ss.site/)                             | ✅        |             |
+| [放牧的风SS](https://www.youneed.win/free-ss)                 | ✅        |             |
+| [放牧的风SSR](https://www.youneed.win/free-ssr)                            | ✅        |		|
+| [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) | ❌        |            |
+| [ssrshare.com分享网站](https://www.ssrtool.com/tool/free_ssr)              | ✅        |            |
 
 ---
 
 ### V2ray 分享
 
-| 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
-| ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [放牧的风](https://www.youneed.win/free-v2ray)               | 天       | ❌        | ✅        | 推荐                |
-| [FreeV2ray](https://view.freev2ray.org/)               | 天       | ❌        | ❌        | 推荐                |
+| 名称                                                        | 需要F♂ | 备注         |
+| ------------------------------------------------------------ | -------- | ------------ |
+| [放牧的风](https://www.youneed.win/free-v2ray)               | ✅        | 推荐        |
+| [FreeV2ray](https://view.freev2ray.org/)                   | ❌        | 推荐          |
 
 ---
 
