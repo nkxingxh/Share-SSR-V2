@@ -19,7 +19,7 @@
 
 | 名称                                                         | 需要F♂ | 备注         |
 | ------------------------------------------------------------ | -------- | ------------ |
-| [GetSSR免费节点](https://onessr.ml/)			    | ×		| 推荐	    |
+| [GetSSR免费节点](https://onessr.ml/)			    | ❌		| 推荐	    |
 | [Incn 免费节点](https://lncn.org/)                            | ✅        | 推荐            |
 | [FreeSS](https://my.freess.info/)       		       | ❌        |  推荐           |
 | [iShadow](https://get.ishadowx.biz/)                         | ❌        |  推荐          |
